@@ -1,5 +1,10 @@
 # 🎬 Netflix Content Analysis — Exploratory Data Analysis (EDA)
 
+## 📊 Project Preview
+
+![Movies vs TV Shows](images/movies_vs_tvshows.png)
+![Content Over Years](images/content_over_years.png)
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0)
