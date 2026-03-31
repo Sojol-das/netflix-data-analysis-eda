@@ -16,10 +16,17 @@ trends in Netflix's catalog — such as which countries produce the most content
 what genres dominate, how content has grown over time, and what ratings are most
 common.
 
-This kind of analysis is directly useful for:
-- 📺 **Media & Entertainment companies** wanting to benchmark content strategy
-- 📊 **Business analysts** tracking streaming platform trends
-- 🤖 **Data scientists** building recommendation systems
+## 📈 Business Value
+
+This analysis can help streaming platforms:
+
+- Identify high-performing content types (Movies vs TV Shows)
+- Optimize content release timing (peak months)
+- Target high-production countries for investment
+- Understand audience preferences via ratings distribution
+- Improve content acquisition strategy
+
+This demonstrates how raw data can be transformed into actionable business insights.
 
 ---
 
