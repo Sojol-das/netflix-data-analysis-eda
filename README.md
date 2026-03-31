@@ -216,7 +216,4 @@ jupyter notebook
 
 ---
 
-## 🤝 Connect With Me
-
-- 📧 sojoldas168@gmail.com
 
